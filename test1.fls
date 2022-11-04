@@ -1,0 +1,10 @@
+"Hello!"
+10,
+"Type a character: "^a:10,a;$," ="32,.10,
+{comment`}
+[$1=~[$1-f;!*]?]f:
+5$f;!
+\"Factorial of "." is: ".
+[10,"Break test. "`10,"Failed"]!"Test complete. "
+{Jibberish to test error message} {More jibberish}
+{Insert '%' between the above comments to see an error message}
